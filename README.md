@@ -11,9 +11,15 @@ loss — every grade-to-grade step holds between 99.6% and 102.6% — and then
 cliff is present in all four transition pairs in the panel and has cost roughly
 15 lakh school places over four years.
 
-- **Report (interactive):** `report/maharashtra-schools.html`
+**[→ Read the report](https://YOUR-USERNAME.github.io/maharashtra-school-retention/)**
+&nbsp;·&nbsp; [PDF](report/maharashtra-schools.pdf) &nbsp;·&nbsp; [pipeline](scripts/)
+
+<!-- After pushing: Settings > Pages > Source = "Deploy from a branch",
+     branch = main, folder = /docs. Then replace the URL above. -->
+
+- **Report (interactive):** `docs/index.html` — self-contained, no build step, no CDN
 - **Report (print):** `report/maharashtra-schools.pdf` (14 pages)
-- **Queryable database:** `data/udise.duckdb`
+- **Queryable database:** `data/udise.duckdb` (rebuild locally, see below)
 
 ---
 

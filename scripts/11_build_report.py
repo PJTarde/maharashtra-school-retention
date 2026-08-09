@@ -1391,12 +1391,40 @@ sortable('ptable', D.ptr.map(r => ({...r, seg: r.location + ' \u00b7 ' + r.manag
 """
 
 
+PAGES = ROOT / "docs" / "index.html"
+
+# The report is authored as a fragment because that is what the Artifact host
+# expects. GitHub Pages needs a complete document, so the same fragment is also
+# written wrapped, to docs/index.html.
+STANDALONE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Five years of UDISE+ school returns for Maharashtra: where students drop out, why, and who falls off.">
+<meta property="og:title" content="Where Maharashtra loses its students">
+<meta property="og:description" content="A five-year panel of 108,139 schools and 2.16 crore pupils. Almost none leave before class 10 — then a fifth vanish at once.">
+<meta property="og:type" content="article">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127979;</text></svg>">
+<style>*,*::before,*::after{box-sizing:border-box}body{margin:0}</style>
+</head>
+<body>
+__FRAGMENT__
+</body>
+</html>
+"""
+
+
 def main() -> None:
     OUT.parent.mkdir(parents=True, exist_ok=True)
     data = json.loads(DATA.read_text())
     html = TEMPLATE.replace("__DATA__", json.dumps(data, separators=(",", ":")))
     OUT.write_text(html, encoding="utf-8")
     print(f"wrote {OUT}  ({OUT.stat().st_size/1024:.0f} KB)")
+
+    PAGES.parent.mkdir(parents=True, exist_ok=True)
+    PAGES.write_text(STANDALONE.replace("__FRAGMENT__", html), encoding="utf-8")
+    print(f"wrote {PAGES}  ({PAGES.stat().st_size/1024:.0f} KB)  [GitHub Pages]")
 
 
 if __name__ == "__main__":
