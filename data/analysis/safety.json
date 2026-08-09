@@ -1,0 +1,86 @@
+[
+ {
+  "measure":"Teacher ID cards issued",
+  "yes":103702,
+  "no":4437,
+  "na":0,
+  "pct":95.9
+ },
+ {
+  "measure":"Fire extinguishers",
+  "yes":98237,
+  "no":9902,
+  "na":0,
+  "pct":90.8
+ },
+ {
+  "measure":"Disaster management plan",
+  "yes":97105,
+  "no":11034,
+  "na":0,
+  "pct":89.8
+ },
+ {
+  "measure":"Helpline \/ guidance displayed",
+  "yes":94296,
+  "no":13843,
+  "na":0,
+  "pct":87.2
+ },
+ {
+  "measure":"Regular safety training",
+  "yes":84132,
+  "no":24007,
+  "na":0,
+  "pct":77.8
+ },
+ {
+  "measure":"Eco club",
+  "yes":81481,
+  "no":26658,
+  "na":0,
+  "pct":75.3
+ },
+ {
+  "measure":"Nodal teacher for safety",
+  "yes":77706,
+  "no":30433,
+  "na":0,
+  "pct":71.9
+ },
+ {
+  "measure":"Structural safety audit done",
+  "yes":72463,
+  "no":35676,
+  "na":0,
+  "pct":67.0
+ },
+ {
+  "measure":"Non-structural safety audit done",
+  "yes":58173,
+  "no":49966,
+  "na":0,
+  "pct":53.8
+ },
+ {
+  "measure":"CCTV cameras installed",
+  "yes":55881,
+  "no":52258,
+  "na":0,
+  "pct":51.7
+ },
+ {
+  "measure":"Teacher trained as first-level counsellor",
+  "yes":46521,
+  "no":61618,
+  "na":0,
+  "pct":43.0
+ },
+ {
+  "measure":"Self-defence training for girls",
+  "yes":14911,
+  "no":43702,
+  "na":49526,
+  "pct":25.4
+ }
+]

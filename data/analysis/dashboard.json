@@ -1,0 +1,3868 @@
+{
+ "years": [
+  "2021-22",
+  "2022-23",
+  "2023-24",
+  "2024-25",
+  "2025-26"
+ ],
+ "latest": "2025-26",
+ "first": "2021-22",
+ "headline": {
+  "schools": 108139,
+  "students": 21632669,
+  "teachers": 750272,
+  "districts": 36,
+  "retention_10_11": 80.3,
+  "lost_10_11": 349816,
+  "retention_boys": 78.2,
+  "retention_girls": 82.7,
+  "gender_gap": 4.5
+ },
+ "cliff_by_period": [
+  {
+   "period": "2021-22\u21922022-23",
+   "retention": 76.1,
+   "boys": 75.3,
+   "girls": 77.0,
+   "gap": 1.7,
+   "lost": 447513
+  },
+  {
+   "period": "2022-23\u21922023-24",
+   "retention": 80.4,
+   "boys": 78.6,
+   "girls": 82.5,
+   "gap": 4.0,
+   "lost": 334546
+  },
+  {
+   "period": "2023-24\u21922024-25",
+   "retention": 79.6,
+   "boys": 77.6,
+   "girls": 81.8,
+   "gap": 4.2,
+   "lost": 361127
+  },
+  {
+   "period": "2024-25\u21922025-26",
+   "retention": 80.3,
+   "boys": 78.2,
+   "girls": 82.7,
+   "gap": 4.5,
+   "lost": 349816
+  }
+ ],
+ "pyramid": [
+  {
+   "class_num": 1,
+   "boys": 894695,
+   "girls": 822770,
+   "total": 1717465,
+   "schools": 81326
+  },
+  {
+   "class_num": 2,
+   "boys": 905412,
+   "girls": 834948,
+   "total": 1740360,
+   "schools": 81465
+  },
+  {
+   "class_num": 3,
+   "boys": 935857,
+   "girls": 867386,
+   "total": 1803243,
+   "schools": 81789
+  },
+  {
+   "class_num": 4,
+   "boys": 978822,
+   "girls": 908096,
+   "total": 1886918,
+   "schools": 82016
+  },
+  {
+   "class_num": 5,
+   "boys": 1032290,
+   "girls": 951421,
+   "total": 1983711,
+   "schools": 58799
+  },
+  {
+   "class_num": 6,
+   "boys": 936874,
+   "girls": 868789,
+   "total": 1805663,
+   "schools": 46587
+  },
+  {
+   "class_num": 7,
+   "boys": 933373,
+   "girls": 853892,
+   "total": 1787265,
+   "schools": 45948
+  },
+  {
+   "class_num": 8,
+   "boys": 981098,
+   "girls": 880967,
+   "total": 1862065,
+   "schools": 33288
+  },
+  {
+   "class_num": 9,
+   "boys": 990157,
+   "girls": 866629,
+   "total": 1856786,
+   "schools": 26272
+  },
+  {
+   "class_num": 10,
+   "boys": 978749,
+   "girls": 853311,
+   "total": 1832060,
+   "schools": 25733
+  },
+  {
+   "class_num": 11,
+   "boys": 738250,
+   "girls": 684420,
+   "total": 1422670,
+   "schools": 10466
+  },
+  {
+   "class_num": 12,
+   "boys": 751449,
+   "girls": 694531,
+   "total": 1445980,
+   "schools": 10219
+  }
+ ],
+ "transitions": [
+  {
+   "from_class": 1,
+   "to_class": 2,
+   "retention": 100.8,
+   "boys": 100.8,
+   "girls": 100.8,
+   "lost": -14005
+  },
+  {
+   "from_class": 2,
+   "to_class": 3,
+   "retention": 101.3,
+   "boys": 101.3,
+   "girls": 101.2,
+   "lost": -22843
+  },
+  {
+   "from_class": 3,
+   "to_class": 4,
+   "retention": 101.2,
+   "boys": 101.3,
+   "girls": 101.1,
+   "lost": -22702
+  },
+  {
+   "from_class": 4,
+   "to_class": 5,
+   "retention": 101.4,
+   "boys": 101.6,
+   "girls": 101.2,
+   "lost": -27434
+  },
+  {
+   "from_class": 5,
+   "to_class": 6,
+   "retention": 100.7,
+   "boys": 100.7,
+   "girls": 100.7,
+   "lost": -13070
+  },
+  {
+   "from_class": 6,
+   "to_class": 7,
+   "retention": 101.3,
+   "boys": 101.5,
+   "girls": 101.2,
+   "lost": -23765
+  },
+  {
+   "from_class": 7,
+   "to_class": 8,
+   "retention": 101.4,
+   "boys": 101.8,
+   "girls": 101.1,
+   "lost": -26403
+  },
+  {
+   "from_class": 8,
+   "to_class": 9,
+   "retention": 100.6,
+   "boys": 100.9,
+   "girls": 100.3,
+   "lost": -11472
+  },
+  {
+   "from_class": 9,
+   "to_class": 10,
+   "retention": 99.6,
+   "boys": 99.6,
+   "girls": 99.6,
+   "lost": 7230
+  },
+  {
+   "from_class": 10,
+   "to_class": 11,
+   "retention": 80.3,
+   "boys": 78.2,
+   "girls": 82.7,
+   "lost": 349816
+  },
+  {
+   "from_class": 11,
+   "to_class": 12,
+   "retention": 102.6,
+   "boys": 103.0,
+   "girls": 102.1,
+   "lost": -36738
+  }
+ ],
+ "transitions_prev": [
+  {
+   "from_class": 1,
+   "retention": 100.2
+  },
+  {
+   "from_class": 2,
+   "retention": 100.7
+  },
+  {
+   "from_class": 3,
+   "retention": 100.6
+  },
+  {
+   "from_class": 4,
+   "retention": 100.5
+  },
+  {
+   "from_class": 5,
+   "retention": 99.6
+  },
+  {
+   "from_class": 6,
+   "retention": 100.2
+  },
+  {
+   "from_class": 7,
+   "retention": 99.7
+  },
+  {
+   "from_class": 8,
+   "retention": 99.5
+  },
+  {
+   "from_class": 9,
+   "retention": 96.2
+  },
+  {
+   "from_class": 10,
+   "retention": 79.6
+  },
+  {
+   "from_class": 11,
+   "retention": 99.7
+  }
+ ],
+ "segments": [
+  {
+   "location": "Rural",
+   "management": "Government",
+   "score": 89.23,
+   "schools": 58247,
+   "students": 3734581
+  },
+  {
+   "location": "Rural",
+   "management": "Private Aided",
+   "score": 96.62,
+   "schools": 12378,
+   "students": 3955976
+  },
+  {
+   "location": "Rural",
+   "management": "Private Unaided",
+   "score": 95.73,
+   "schools": 7359,
+   "students": 1951476
+  },
+  {
+   "location": "Urban",
+   "management": "Government",
+   "score": 92.45,
+   "schools": 6343,
+   "students": 1238881
+  },
+  {
+   "location": "Urban",
+   "management": "Private Aided",
+   "score": 96.04,
+   "schools": 9745,
+   "students": 5097932
+  },
+  {
+   "location": "Urban",
+   "management": "Private Unaided",
+   "score": 96.09,
+   "schools": 10465,
+   "students": 4781969
+  }
+ ],
+ "districts": [
+  {
+   "district": "Gadchiroli",
+   "score": 82.37,
+   "schools": 1969,
+   "students": 190952,
+   "internet": 65.0,
+   "computer": 61.2,
+   "girls_toilet": 89.0,
+   "water": 100.0,
+   "electricity": 71.5,
+   "retention": 76.5
+  },
+  {
+   "district": "Nandurbar",
+   "score": 82.52,
+   "schools": 2099,
+   "students": 343182,
+   "internet": 51.1,
+   "computer": 57.9,
+   "girls_toilet": 97.3,
+   "water": 100.0,
+   "electricity": 65.7,
+   "retention": 64.0
+  },
+  {
+   "district": "Bid",
+   "score": 85.62,
+   "schools": 3712,
+   "students": 538969,
+   "internet": 71.3,
+   "computer": 61.0,
+   "girls_toilet": 95.4,
+   "water": 100.0,
+   "electricity": 71.7,
+   "retention": 82.2
+  },
+  {
+   "district": "Sindhudurg",
+   "score": 86.54,
+   "schools": 1631,
+   "students": 95324,
+   "internet": 33.3,
+   "computer": 80.0,
+   "girls_toilet": 98.5,
+   "water": 100.0,
+   "electricity": 99.6,
+   "retention": 86.5
+  },
+  {
+   "district": "Nanded",
+   "score": 86.96,
+   "schools": 3710,
+   "students": 640776,
+   "internet": 70.7,
+   "computer": 63.6,
+   "girls_toilet": 90.8,
+   "water": 100.0,
+   "electricity": 80.0,
+   "retention": 73.8
+  },
+  {
+   "district": "Hingoli",
+   "score": 87.04,
+   "schools": 1330,
+   "students": 218715,
+   "internet": 60.8,
+   "computer": 66.5,
+   "girls_toilet": 89.2,
+   "water": 100.0,
+   "electricity": 82.2,
+   "retention": 78.5
+  },
+  {
+   "district": "Parbhani",
+   "score": 87.31,
+   "schools": 2103,
+   "students": 382682,
+   "internet": 67.5,
+   "computer": 75.1,
+   "girls_toilet": 93.2,
+   "water": 100.0,
+   "electricity": 83.6,
+   "retention": 75.1
+  },
+  {
+   "district": "Palghar",
+   "score": 87.87,
+   "schools": 3322,
+   "students": 772935,
+   "internet": 57.8,
+   "computer": 72.7,
+   "girls_toilet": 97.4,
+   "water": 100.0,
+   "electricity": 89.6,
+   "retention": 77.3
+  },
+  {
+   "district": "Akola",
+   "score": 87.95,
+   "schools": 1844,
+   "students": 334769,
+   "internet": 69.2,
+   "computer": 70.8,
+   "girls_toilet": 94.5,
+   "water": 100.0,
+   "electricity": 96.6,
+   "retention": 79.5
+  },
+  {
+   "district": "Chhatrapati Sambhajinagar",
+   "score": 88.47,
+   "schools": 4510,
+   "students": 908536,
+   "internet": 58.8,
+   "computer": 81.4,
+   "girls_toilet": 99.0,
+   "water": 100.0,
+   "electricity": 85.2,
+   "retention": 79.1
+  },
+  {
+   "district": "Latur",
+   "score": 88.68,
+   "schools": 2664,
+   "students": 485310,
+   "internet": 62.5,
+   "computer": 74.5,
+   "girls_toilet": 94.8,
+   "water": 100.0,
+   "electricity": 90.4,
+   "retention": 74.3
+  },
+  {
+   "district": "Chandrapur",
+   "score": 89.24,
+   "schools": 2455,
+   "students": 367844,
+   "internet": 54.1,
+   "computer": 83.7,
+   "girls_toilet": 95.3,
+   "water": 100.0,
+   "electricity": 95.6,
+   "retention": 81.9
+  },
+  {
+   "district": "Gondiya",
+   "score": 89.41,
+   "schools": 1638,
+   "students": 227149,
+   "internet": 53.0,
+   "computer": 73.4,
+   "girls_toilet": 98.2,
+   "water": 100.0,
+   "electricity": 97.2,
+   "retention": 90.5
+  },
+  {
+   "district": "Raigarh",
+   "score": 89.45,
+   "schools": 3552,
+   "students": 558407,
+   "internet": 57.3,
+   "computer": 74.2,
+   "girls_toilet": 99.9,
+   "water": 100.0,
+   "electricity": 88.9,
+   "retention": 78.8
+  },
+  {
+   "district": "Dhule",
+   "score": 89.75,
+   "schools": 1981,
+   "students": 444677,
+   "internet": 78.3,
+   "computer": 69.0,
+   "girls_toilet": 91.3,
+   "water": 100.0,
+   "electricity": 85.2,
+   "retention": 64.6
+  },
+  {
+   "district": "Jalna",
+   "score": 90.34,
+   "schools": 2445,
+   "students": 408849,
+   "internet": 74.9,
+   "computer": 74.2,
+   "girls_toilet": 94.4,
+   "water": 100.0,
+   "electricity": 88.8,
+   "retention": 87.3
+  },
+  {
+   "district": "Bhandara",
+   "score": 90.94,
+   "schools": 1292,
+   "students": 194085,
+   "internet": 58.1,
+   "computer": 65.6,
+   "girls_toilet": 96.0,
+   "water": 100.0,
+   "electricity": 99.2,
+   "retention": 87.6
+  },
+  {
+   "district": "Amravati",
+   "score": 91.11,
+   "schools": 2872,
+   "students": 483910,
+   "internet": 81.5,
+   "computer": 64.5,
+   "girls_toilet": 96.9,
+   "water": 100.0,
+   "electricity": 93.3,
+   "retention": 76.1
+  },
+  {
+   "district": "Dharashiv",
+   "score": 91.2,
+   "schools": 1816,
+   "students": 271324,
+   "internet": 76.4,
+   "computer": 78.6,
+   "girls_toilet": 94.2,
+   "water": 100.0,
+   "electricity": 92.2,
+   "retention": 65.2
+  },
+  {
+   "district": "Buldana",
+   "score": 91.37,
+   "schools": 2476,
+   "students": 507124,
+   "internet": 63.2,
+   "computer": 68.1,
+   "girls_toilet": 97.2,
+   "water": 100.0,
+   "electricity": 93.4,
+   "retention": 76.7
+  },
+  {
+   "district": "Solapur",
+   "score": 92.42,
+   "schools": 4701,
+   "students": 811586,
+   "internet": 78.5,
+   "computer": 85.5,
+   "girls_toilet": 95.7,
+   "water": 100.0,
+   "electricity": 87.3,
+   "retention": 72.0
+  },
+  {
+   "district": "Ratnagiri",
+   "score": 92.96,
+   "schools": 2966,
+   "students": 207373,
+   "internet": 63.1,
+   "computer": 89.9,
+   "girls_toilet": 99.5,
+   "water": 100.0,
+   "electricity": 98.3,
+   "retention": 83.6
+  },
+  {
+   "district": "Yavatmal",
+   "score": 93.02,
+   "schools": 3326,
+   "students": 484745,
+   "internet": 86.6,
+   "computer": 66.3,
+   "girls_toilet": 100.0,
+   "water": 100.0,
+   "electricity": 89.7,
+   "retention": 74.7
+  },
+  {
+   "district": "Washim",
+   "score": 93.44,
+   "schools": 1361,
+   "students": 231921,
+   "internet": 88.0,
+   "computer": 69.3,
+   "girls_toilet": 99.3,
+   "water": 100.0,
+   "electricity": 98.5,
+   "retention": 86.2
+  },
+  {
+   "district": "Nashik",
+   "score": 93.92,
+   "schools": 5563,
+   "students": 1325158,
+   "internet": 80.5,
+   "computer": 80.7,
+   "girls_toilet": 99.3,
+   "water": 100.0,
+   "electricity": 93.7,
+   "retention": 75.1
+  },
+  {
+   "district": "Ahilyanagar",
+   "score": 95.22,
+   "schools": 5265,
+   "students": 841960,
+   "internet": 83.9,
+   "computer": 93.5,
+   "girls_toilet": 98.0,
+   "water": 100.0,
+   "electricity": 92.3,
+   "retention": 76.6
+  },
+  {
+   "district": "Nagpur",
+   "score": 95.22,
+   "schools": 3966,
+   "students": 873228,
+   "internet": 98.8,
+   "computer": 79.3,
+   "girls_toilet": 96.7,
+   "water": 100.0,
+   "electricity": 98.3,
+   "retention": 92.6
+  },
+  {
+   "district": "Wardha",
+   "score": 96.14,
+   "schools": 1457,
+   "students": 207789,
+   "internet": 96.2,
+   "computer": 75.4,
+   "girls_toilet": 99.7,
+   "water": 100.0,
+   "electricity": 100.0,
+   "retention": 81.2
+  },
+  {
+   "district": "Mumbai II",
+   "score": 96.43,
+   "schools": 1759,
+   "students": 1122399,
+   "internet": 100.0,
+   "computer": 100.0,
+   "girls_toilet": 100.0,
+   "water": 100.0,
+   "electricity": 100.0,
+   "retention": 109.5
+  },
+  {
+   "district": "Mumbai (Suburban)",
+   "score": 96.57,
+   "schools": 2324,
+   "students": 723715,
+   "internet": 92.9,
+   "computer": 97.3,
+   "girls_toilet": 99.7,
+   "water": 100.0,
+   "electricity": 100.0,
+   "retention": null
+  },
+  {
+   "district": "Pune",
+   "score": 96.66,
+   "schools": 7399,
+   "students": 2294737,
+   "internet": 90.2,
+   "computer": 94.9,
+   "girls_toilet": 100.0,
+   "water": 100.0,
+   "electricity": 98.2,
+   "retention": 87.1
+  },
+  {
+   "district": "Thane",
+   "score": 96.7,
+   "schools": 4799,
+   "students": 1723241,
+   "internet": 96.3,
+   "computer": 91.9,
+   "girls_toilet": 100.0,
+   "water": 100.0,
+   "electricity": 97.4,
+   "retention": 82.1
+  },
+  {
+   "district": "Jalgaon",
+   "score": 96.7,
+   "schools": 3387,
+   "students": 835005,
+   "internet": 97.8,
+   "computer": 85.2,
+   "girls_toilet": 96.3,
+   "water": 100.0,
+   "electricity": 96.7,
+   "retention": 62.8
+  },
+  {
+   "district": "Sangli",
+   "score": 97.45,
+   "schools": 2967,
+   "students": 481033,
+   "internet": 97.4,
+   "computer": 91.0,
+   "girls_toilet": 97.7,
+   "water": 100.0,
+   "electricity": 96.6,
+   "retention": 74.3
+  },
+  {
+   "district": "Kolhapur",
+   "score": 97.57,
+   "schools": 3675,
+   "students": 645915,
+   "internet": 99.2,
+   "computer": 86.0,
+   "girls_toilet": 98.9,
+   "water": 100.0,
+   "electricity": 96.3,
+   "retention": 86.4
+  },
+  {
+   "district": "Satara",
+   "score": 99.21,
+   "schools": 3803,
+   "students": 447345,
+   "internet": 99.8,
+   "computer": 97.5,
+   "girls_toilet": 100.0,
+   "water": 100.0,
+   "electricity": 99.7,
+   "retention": 80.5
+  }
+ ],
+ "district_change": [
+  {
+   "district": "Yavatmal",
+   "y_first": 78.61,
+   "y_last": 93.02,
+   "change": 14.41
+  },
+  {
+   "district": "Nagpur",
+   "y_first": 81.15,
+   "y_last": 95.22,
+   "change": 14.07
+  },
+  {
+   "district": "Buldana",
+   "y_first": 77.53,
+   "y_last": 91.37,
+   "change": 13.84
+  },
+  {
+   "district": "Jalna",
+   "y_first": 77.57,
+   "y_last": 90.34,
+   "change": 12.78
+  },
+  {
+   "district": "Satara",
+   "y_first": 86.84,
+   "y_last": 99.21,
+   "change": 12.37
+  },
+  {
+   "district": "Pune",
+   "y_first": 84.74,
+   "y_last": 96.66,
+   "change": 11.91
+  },
+  {
+   "district": "Hingoli",
+   "y_first": 75.25,
+   "y_last": 87.04,
+   "change": 11.79
+  },
+  {
+   "district": "Gadchiroli",
+   "y_first": 70.66,
+   "y_last": 82.37,
+   "change": 11.71
+  },
+  {
+   "district": "Kolhapur",
+   "y_first": 86.03,
+   "y_last": 97.57,
+   "change": 11.54
+  },
+  {
+   "district": "Washim",
+   "y_first": 82.08,
+   "y_last": 93.44,
+   "change": 11.37
+  },
+  {
+   "district": "Sangli",
+   "y_first": 86.15,
+   "y_last": 97.45,
+   "change": 11.3
+  },
+  {
+   "district": "Raigarh",
+   "y_first": 78.69,
+   "y_last": 89.45,
+   "change": 10.76
+  },
+  {
+   "district": "Ahilyanagar",
+   "y_first": 84.8,
+   "y_last": 95.22,
+   "change": 10.41
+  },
+  {
+   "district": "Bid",
+   "y_first": 75.3,
+   "y_last": 85.62,
+   "change": 10.32
+  },
+  {
+   "district": "Wardha",
+   "y_first": 86.02,
+   "y_last": 96.14,
+   "change": 10.13
+  },
+  {
+   "district": "Jalgaon",
+   "y_first": 87.3,
+   "y_last": 96.7,
+   "change": 9.4
+  },
+  {
+   "district": "Amravati",
+   "y_first": 82.05,
+   "y_last": 91.11,
+   "change": 9.06
+  },
+  {
+   "district": "Akola",
+   "y_first": 78.98,
+   "y_last": 87.95,
+   "change": 8.96
+  },
+  {
+   "district": "Nashik",
+   "y_first": 85.12,
+   "y_last": 93.92,
+   "change": 8.8
+  },
+  {
+   "district": "Chandrapur",
+   "y_first": 80.78,
+   "y_last": 89.24,
+   "change": 8.46
+  },
+  {
+   "district": "Nandurbar",
+   "y_first": 74.29,
+   "y_last": 82.52,
+   "change": 8.23
+  },
+  {
+   "district": "Thane",
+   "y_first": 88.6,
+   "y_last": 96.7,
+   "change": 8.1
+  },
+  {
+   "district": "Palghar",
+   "y_first": 79.94,
+   "y_last": 87.87,
+   "change": 7.93
+  },
+  {
+   "district": "Nanded",
+   "y_first": 79.11,
+   "y_last": 86.96,
+   "change": 7.85
+  },
+  {
+   "district": "Dhule",
+   "y_first": 81.99,
+   "y_last": 89.75,
+   "change": 7.76
+  },
+  {
+   "district": "Parbhani",
+   "y_first": 79.77,
+   "y_last": 87.31,
+   "change": 7.54
+  },
+  {
+   "district": "Sindhudurg",
+   "y_first": 79.67,
+   "y_last": 86.54,
+   "change": 6.87
+  },
+  {
+   "district": "Bhandara",
+   "y_first": 84.09,
+   "y_last": 90.94,
+   "change": 6.85
+  },
+  {
+   "district": "Dharashiv",
+   "y_first": 84.7,
+   "y_last": 91.2,
+   "change": 6.5
+  },
+  {
+   "district": "Gondiya",
+   "y_first": 82.92,
+   "y_last": 89.41,
+   "change": 6.49
+  },
+  {
+   "district": "Latur",
+   "y_first": 82.19,
+   "y_last": 88.68,
+   "change": 6.49
+  },
+  {
+   "district": "Mumbai II",
+   "y_first": 89.95,
+   "y_last": 96.43,
+   "change": 6.48
+  },
+  {
+   "district": "Chhatrapati Sambhajinagar",
+   "y_first": 82.09,
+   "y_last": 88.47,
+   "change": 6.39
+  },
+  {
+   "district": "Mumbai (Suburban)",
+   "y_first": 90.43,
+   "y_last": 96.57,
+   "change": 6.14
+  },
+  {
+   "district": "Ratnagiri",
+   "y_first": 86.98,
+   "y_last": 92.96,
+   "change": 5.98
+  },
+  {
+   "district": "Solapur",
+   "y_first": 89.03,
+   "y_last": 92.42,
+   "change": 3.39
+  }
+ ],
+ "deprivation": [
+  {
+   "gap": "No internet",
+   "schools": 23855,
+   "students": 1889941
+  },
+  {
+   "gap": "No computing device",
+   "schools": 21659,
+   "students": 994905
+  },
+  {
+   "gap": "No playground",
+   "schools": 12248,
+   "students": 1343407
+  },
+  {
+   "gap": "No electricity",
+   "schools": 9069,
+   "students": 412790
+  },
+  {
+   "gap": "No library",
+   "schools": 4585,
+   "students": 474644
+  },
+  {
+   "gap": "No functional girls' toilet",
+   "schools": 2971,
+   "students": 91598
+  }
+ ],
+ "ptr": [
+  {
+   "location": "Urban",
+   "management": "Private Aided",
+   "schools": 5445,
+   "ptr": 35.9,
+   "over_30": 2671,
+   "single_teacher": 181
+  },
+  {
+   "location": "Urban",
+   "management": "Private Unaided",
+   "schools": 5545,
+   "ptr": 31.8,
+   "over_30": 2308,
+   "single_teacher": 93
+  },
+  {
+   "location": "Urban",
+   "management": "Government",
+   "schools": 5592,
+   "ptr": 30.3,
+   "over_30": 1832,
+   "single_teacher": 413
+  },
+  {
+   "location": "Rural",
+   "management": "Private Aided",
+   "schools": 4481,
+   "ptr": 28.5,
+   "over_30": 1622,
+   "single_teacher": 147
+  },
+  {
+   "location": "Rural",
+   "management": "Private Unaided",
+   "schools": 3323,
+   "ptr": 21.6,
+   "over_30": 651,
+   "single_teacher": 69
+  },
+  {
+   "location": "Rural",
+   "management": "Government",
+   "schools": 57184,
+   "ptr": 19.3,
+   "over_30": 4401,
+   "single_teacher": 8152
+  }
+ ],
+ "score_by_year": [
+  {
+   "year": "2021-22",
+   "score": 82.85,
+   "median_score": 81.82,
+   "schools": 109605
+  },
+  {
+   "year": "2022-23",
+   "score": 87.27,
+   "median_score": 90.91,
+   "schools": 108451
+  },
+  {
+   "year": "2023-24",
+   "score": 88.91,
+   "median_score": 90.91,
+   "schools": 108237
+  },
+  {
+   "year": "2024-25",
+   "score": 89.7,
+   "median_score": 90.91,
+   "schools": 108250
+  },
+  {
+   "year": "2025-26",
+   "score": 92.22,
+   "median_score": 100.0,
+   "schools": 108139
+  }
+ ],
+ "safety": [
+  {
+   "measure": "Teacher ID cards issued",
+   "yes": 103702,
+   "no": 4437,
+   "na": 0,
+   "pct": 95.9
+  },
+  {
+   "measure": "Fire extinguishers",
+   "yes": 98237,
+   "no": 9902,
+   "na": 0,
+   "pct": 90.8
+  },
+  {
+   "measure": "Disaster management plan",
+   "yes": 97105,
+   "no": 11034,
+   "na": 0,
+   "pct": 89.8
+  },
+  {
+   "measure": "Helpline / guidance displayed",
+   "yes": 94296,
+   "no": 13843,
+   "na": 0,
+   "pct": 87.2
+  },
+  {
+   "measure": "Regular safety training",
+   "yes": 84132,
+   "no": 24007,
+   "na": 0,
+   "pct": 77.8
+  },
+  {
+   "measure": "Eco club",
+   "yes": 81481,
+   "no": 26658,
+   "na": 0,
+   "pct": 75.3
+  },
+  {
+   "measure": "Nodal teacher for safety",
+   "yes": 77706,
+   "no": 30433,
+   "na": 0,
+   "pct": 71.9
+  },
+  {
+   "measure": "Structural safety audit done",
+   "yes": 72463,
+   "no": 35676,
+   "na": 0,
+   "pct": 67.0
+  },
+  {
+   "measure": "Non-structural safety audit done",
+   "yes": 58173,
+   "no": 49966,
+   "na": 0,
+   "pct": 53.8
+  },
+  {
+   "measure": "CCTV cameras installed",
+   "yes": 55881,
+   "no": 52258,
+   "na": 0,
+   "pct": 51.7
+  },
+  {
+   "measure": "Teacher trained as first-level counsellor",
+   "yes": 46521,
+   "no": 61618,
+   "na": 0,
+   "pct": 43.0
+  },
+  {
+   "measure": "Self-defence training for girls",
+   "yes": 14911,
+   "no": 43702,
+   "na": 49526,
+   "pct": 25.4
+  }
+ ],
+ "safety_segment": [
+  {
+   "location": "Rural",
+   "management_group": "Government",
+   "schools": 58247,
+   "pct_cctv": 27.7,
+   "pct_fire": 88.3,
+   "pct_counsellor": 40.5,
+   "pct_selfdef": 9.4
+  },
+  {
+   "location": "Urban",
+   "management_group": "Government",
+   "schools": 6343,
+   "pct_cctv": 45.0,
+   "pct_fire": 91.1,
+   "pct_counsellor": 42.4,
+   "pct_selfdef": 21.4
+  },
+  {
+   "location": "Rural",
+   "management_group": "Private Aided",
+   "schools": 12378,
+   "pct_cctv": 78.3,
+   "pct_fire": 93.1,
+   "pct_counsellor": 43.0,
+   "pct_selfdef": 20.3
+  },
+  {
+   "location": "Rural",
+   "management_group": "Private Unaided",
+   "schools": 7359,
+   "pct_cctv": 83.1,
+   "pct_fire": 92.4,
+   "pct_counsellor": 50.7,
+   "pct_selfdef": 20.2
+  },
+  {
+   "location": "Urban",
+   "management_group": "Private Aided",
+   "schools": 9745,
+   "pct_cctv": 86.8,
+   "pct_fire": 94.4,
+   "pct_counsellor": 41.8,
+   "pct_selfdef": 15.3
+  },
+  {
+   "location": "Urban",
+   "management_group": "Private Unaided",
+   "schools": 10465,
+   "pct_cctv": 92.6,
+   "pct_fire": 96.0,
+   "pct_counsellor": 52.6,
+   "pct_selfdef": 18.2
+  }
+ ],
+ "coverage": [
+  {
+   "key": "net",
+   "label": "Internet",
+   "2021-22": 47.9,
+   "2022-23": 62.6,
+   "2023-24": 67.5,
+   "2024-25": 72.1,
+   "2025-26": 77.9
+  },
+  {
+   "key": "comp",
+   "label": "Computing device",
+   "2021-22": 65.6,
+   "2022-23": 75.8,
+   "2023-24": 78.0,
+   "2024-25": 79.1,
+   "2025-26": 80.0
+  },
+  {
+   "key": "play",
+   "label": "Playground",
+   "2021-22": 86.5,
+   "2022-23": 87.7,
+   "2023-24": 87.7,
+   "2024-25": 87.7,
+   "2025-26": 88.7
+  },
+  {
+   "key": "elec",
+   "label": "Electricity",
+   "2021-22": 85.6,
+   "2022-23": 87.1,
+   "2023-24": 87.9,
+   "2024-25": 88.9,
+   "2025-26": 91.6
+  },
+  {
+   "key": "btoilet",
+   "label": "Functional boys' toilet",
+   "2021-22": 91.0,
+   "2022-23": 90.7,
+   "2023-24": 90.2,
+   "2024-25": 90.4,
+   "2025-26": 94.8
+  },
+  {
+   "key": "med",
+   "label": "Medical check-ups",
+   "2021-22": 66.4,
+   "2022-23": 83.4,
+   "2023-24": 92.5,
+   "2024-25": 92.2,
+   "2025-26": 95.1
+  },
+  {
+   "key": "lib",
+   "label": "Library",
+   "2021-22": 89.5,
+   "2022-23": 91.8,
+   "2023-24": 93.0,
+   "2024-25": 93.4,
+   "2025-26": 95.8
+  },
+  {
+   "key": "ramp",
+   "label": "Ramps",
+   "2021-22": 92.7,
+   "2022-23": 93.6,
+   "2023-24": 93.8,
+   "2024-25": 94.0,
+   "2025-26": 96.4
+  },
+  {
+   "key": "hwash",
+   "label": "Handwash near toilet",
+   "2021-22": 94.5,
+   "2022-23": 95.3,
+   "2023-24": 95.6,
+   "2024-25": 95.9,
+   "2025-26": 96.9
+  },
+  {
+   "key": "gtoilet",
+   "label": "Functional girls' toilet",
+   "2021-22": 93.8,
+   "2022-23": 93.7,
+   "2023-24": 93.3,
+   "2024-25": 93.4,
+   "2025-26": 97.2
+  },
+  {
+   "key": "water",
+   "label": "Functional drinking water",
+   "2021-22": 98.0,
+   "2022-23": 98.4,
+   "2023-24": 98.4,
+   "2024-25": 99.6,
+   "2025-26": 100.0
+  }
+ ],
+ "enrolment_trend": [
+  {
+   "year": "2021-22",
+   "students": 22586695,
+   "schools": 109605,
+   "teachers": 748589
+  },
+  {
+   "year": "2022-23",
+   "students": 21150066,
+   "schools": 108451,
+   "teachers": 742316
+  },
+  {
+   "year": "2023-24",
+   "students": 21375970,
+   "schools": 108237,
+   "teachers": 738114
+  },
+  {
+   "year": "2024-25",
+   "students": 21272611,
+   "schools": 108250,
+   "teachers": 747501
+  },
+  {
+   "year": "2025-26",
+   "students": 21632669,
+   "schools": 108139,
+   "teachers": 750272
+  }
+ ],
+ "supply": {
+  "can_stay": 798015,
+  "must_move": 974471,
+  "schools_with_11": 8154,
+  "schools_without_11": 17110,
+  "pct_must_move": 55.0,
+  "c11_total": 1422670,
+  "c11_in_continuing": 827715,
+  "c11_standalone": 586901,
+  "intake_ratio": 103.7,
+  "movers_placed_min_pct": 64.1,
+  "stayers_placed_min_pct": 56.2,
+  "standalone_pct_of_movers": 60.2
+ },
+ "block_scatter": [
+  {
+   "x": 61.8,
+   "y": 48.4,
+   "n": 4060
+  },
+  {
+   "x": 51.2,
+   "y": 77.4,
+   "n": 2783
+  },
+  {
+   "x": 56.1,
+   "y": 74.9,
+   "n": 7499
+  },
+  {
+   "x": 76.4,
+   "y": 157.4,
+   "n": 13042
+  },
+  {
+   "x": 38.8,
+   "y": 67.1,
+   "n": 6291
+  },
+  {
+   "x": 50.6,
+   "y": 74.7,
+   "n": 3250
+  },
+  {
+   "x": 63.5,
+   "y": 87.8,
+   "n": 4936
+  },
+  {
+   "x": 64.0,
+   "y": 136.9,
+   "n": 1736
+  },
+  {
+   "x": 39.6,
+   "y": 72.5,
+   "n": 6874
+  },
+  {
+   "x": 37.9,
+   "y": 60.8,
+   "n": 10182
+  },
+  {
+   "x": 53.7,
+   "y": 85.9,
+   "n": 4255
+  },
+  {
+   "x": 22.1,
+   "y": 94.5,
+   "n": 2508
+  },
+  {
+   "x": 58.6,
+   "y": 73.2,
+   "n": 5658
+  },
+  {
+   "x": 55.8,
+   "y": 66.2,
+   "n": 2740
+  },
+  {
+   "x": 50.7,
+   "y": 61.2,
+   "n": 4408
+  },
+  {
+   "x": 39.2,
+   "y": 76.6,
+   "n": 2745
+  },
+  {
+   "x": 36.9,
+   "y": 104.6,
+   "n": 2792
+  },
+  {
+   "x": 57.1,
+   "y": 79.2,
+   "n": 959
+  },
+  {
+   "x": 44.7,
+   "y": 77.4,
+   "n": 1195
+  },
+  {
+   "x": 53.4,
+   "y": 78.8,
+   "n": 4638
+  },
+  {
+   "x": 68.7,
+   "y": 81.8,
+   "n": 451
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1732
+  },
+  {
+   "x": 61.9,
+   "y": 59.8,
+   "n": 6819
+  },
+  {
+   "x": 62.7,
+   "y": 72.4,
+   "n": 8958
+  },
+  {
+   "x": 62.3,
+   "y": 52.5,
+   "n": 520
+  },
+  {
+   "x": 74.8,
+   "y": 51.1,
+   "n": 11763
+  },
+  {
+   "x": 69.8,
+   "y": 147.9,
+   "n": 5851
+  },
+  {
+   "x": 61.8,
+   "y": 72.7,
+   "n": 3087
+  },
+  {
+   "x": 24.9,
+   "y": 92.9,
+   "n": 1651
+  },
+  {
+   "x": 51.9,
+   "y": 74.2,
+   "n": 6439
+  },
+  {
+   "x": 55.2,
+   "y": 56.1,
+   "n": 4006
+  },
+  {
+   "x": 48.6,
+   "y": 66.4,
+   "n": 4212
+  },
+  {
+   "x": 57.1,
+   "y": 58.2,
+   "n": 2329
+  },
+  {
+   "x": 58.0,
+   "y": 64.2,
+   "n": 2015
+  },
+  {
+   "x": 67.5,
+   "y": 64.1,
+   "n": 1273
+  },
+  {
+   "x": 57.5,
+   "y": 62.7,
+   "n": 2804
+  },
+  {
+   "x": 55.8,
+   "y": 80.5,
+   "n": 5416
+  },
+  {
+   "x": 73.1,
+   "y": 68.7,
+   "n": 2754
+  },
+  {
+   "x": 46.0,
+   "y": 78.5,
+   "n": 3680
+  },
+  {
+   "x": 38.2,
+   "y": 79.7,
+   "n": 7452
+  },
+  {
+   "x": 73.5,
+   "y": 82.4,
+   "n": 4131
+  },
+  {
+   "x": 46.7,
+   "y": 98.5,
+   "n": 3333
+  },
+  {
+   "x": 52.6,
+   "y": 74.8,
+   "n": 3321
+  },
+  {
+   "x": 38.7,
+   "y": 119.5,
+   "n": 7227
+  },
+  {
+   "x": 53.7,
+   "y": 75.9,
+   "n": 2790
+  },
+  {
+   "x": 62.5,
+   "y": 91.2,
+   "n": 1846
+  },
+  {
+   "x": 36.6,
+   "y": 86.0,
+   "n": 1845
+  },
+  {
+   "x": 39.1,
+   "y": 86.1,
+   "n": 2114
+  },
+  {
+   "x": 57.2,
+   "y": 84.4,
+   "n": 2756
+  },
+  {
+   "x": 54.7,
+   "y": 81.4,
+   "n": 1977
+  },
+  {
+   "x": 61.7,
+   "y": 65.2,
+   "n": 2214
+  },
+  {
+   "x": 16.5,
+   "y": 93.0,
+   "n": 1662
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1061
+  },
+  {
+   "x": 57.3,
+   "y": 64.7,
+   "n": 9421
+  },
+  {
+   "x": 75.8,
+   "y": 85.5,
+   "n": 2153
+  },
+  {
+   "x": 65.2,
+   "y": 58.8,
+   "n": 7805
+  },
+  {
+   "x": 59.0,
+   "y": 64.5,
+   "n": 3774
+  },
+  {
+   "x": 40.6,
+   "y": 77.0,
+   "n": 6246
+  },
+  {
+   "x": 36.2,
+   "y": 76.0,
+   "n": 3121
+  },
+  {
+   "x": 55.7,
+   "y": 71.3,
+   "n": 2083
+  },
+  {
+   "x": 31.2,
+   "y": 139.0,
+   "n": 6407
+  },
+  {
+   "x": 71.4,
+   "y": 77.5,
+   "n": 30378
+  },
+  {
+   "x": 73.0,
+   "y": 71.4,
+   "n": 4562
+  },
+  {
+   "x": 66.6,
+   "y": 78.1,
+   "n": 1857
+  },
+  {
+   "x": 49.4,
+   "y": 71.5,
+   "n": 4677
+  },
+  {
+   "x": 44.5,
+   "y": 76.7,
+   "n": 2433
+  },
+  {
+   "x": 39.1,
+   "y": 66.2,
+   "n": 2264
+  },
+  {
+   "x": 64.7,
+   "y": 51.5,
+   "n": 4783
+  },
+  {
+   "x": 42.5,
+   "y": 69.1,
+   "n": 1505
+  },
+  {
+   "x": 70.7,
+   "y": 56.6,
+   "n": 2910
+  },
+  {
+   "x": 46.2,
+   "y": 68.0,
+   "n": 640
+  },
+  {
+   "x": 59.3,
+   "y": 82.5,
+   "n": 781
+  },
+  {
+   "x": 50.5,
+   "y": 103.5,
+   "n": 6583
+  },
+  {
+   "x": 30.3,
+   "y": 85.3,
+   "n": 2551
+  },
+  {
+   "x": 57.5,
+   "y": 71.3,
+   "n": 5348
+  },
+  {
+   "x": 57.5,
+   "y": 95.9,
+   "n": 1000
+  },
+  {
+   "x": 62.6,
+   "y": 62.1,
+   "n": 2623
+  },
+  {
+   "x": 63.7,
+   "y": 83.1,
+   "n": 14436
+  },
+  {
+   "x": 54.8,
+   "y": 71.1,
+   "n": 3716
+  },
+  {
+   "x": 43.3,
+   "y": 67.2,
+   "n": 6571
+  },
+  {
+   "x": 64.3,
+   "y": 48.2,
+   "n": 1771
+  },
+  {
+   "x": 47.1,
+   "y": 83.5,
+   "n": 6055
+  },
+  {
+   "x": 59.5,
+   "y": 41.7,
+   "n": 3600
+  },
+  {
+   "x": 37.0,
+   "y": 79.6,
+   "n": 3781
+  },
+  {
+   "x": 43.5,
+   "y": 61.6,
+   "n": 983
+  },
+  {
+   "x": 55.3,
+   "y": 79.8,
+   "n": 6996
+  },
+  {
+   "x": 47.0,
+   "y": 50.9,
+   "n": 5351
+  },
+  {
+   "x": 48.3,
+   "y": 66.3,
+   "n": 4937
+  },
+  {
+   "x": 59.0,
+   "y": 62.6,
+   "n": 3813
+  },
+  {
+   "x": 31.5,
+   "y": 107.9,
+   "n": 2125
+  },
+  {
+   "x": 57.3,
+   "y": 71.2,
+   "n": 3588
+  },
+  {
+   "x": 37.3,
+   "y": 80.7,
+   "n": 2596
+  },
+  {
+   "x": 52.8,
+   "y": 69.9,
+   "n": 2544
+  },
+  {
+   "x": 48.2,
+   "y": 56.9,
+   "n": 2631
+  },
+  {
+   "x": 66.7,
+   "y": 77.6,
+   "n": 977
+  },
+  {
+   "x": 32.9,
+   "y": 80.0,
+   "n": 1306
+  },
+  {
+   "x": 45.8,
+   "y": 72.6,
+   "n": 2858
+  },
+  {
+   "x": 53.5,
+   "y": 58.5,
+   "n": 4285
+  },
+  {
+   "x": 66.1,
+   "y": 87.0,
+   "n": 1997
+  },
+  {
+   "x": 33.7,
+   "y": 92.9,
+   "n": 2443
+  },
+  {
+   "x": 52.9,
+   "y": 66.7,
+   "n": 6244
+  },
+  {
+   "x": 46.9,
+   "y": 105.7,
+   "n": 5053
+  },
+  {
+   "x": 48.3,
+   "y": 63.5,
+   "n": 4813
+  },
+  {
+   "x": 30.9,
+   "y": 91.1,
+   "n": 1526
+  },
+  {
+   "x": 83.2,
+   "y": 77.1,
+   "n": 2582
+  },
+  {
+   "x": 55.1,
+   "y": 76.0,
+   "n": 2514
+  },
+  {
+   "x": 43.2,
+   "y": 79.5,
+   "n": 1691
+  },
+  {
+   "x": 76.4,
+   "y": 57.3,
+   "n": 2196
+  },
+  {
+   "x": 25.9,
+   "y": 75.1,
+   "n": 1879
+  },
+  {
+   "x": 45.0,
+   "y": 66.4,
+   "n": 2064
+  },
+  {
+   "x": 61.1,
+   "y": 71.5,
+   "n": 396
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 306
+  },
+  {
+   "x": 49.3,
+   "y": 86.5,
+   "n": 6406
+  },
+  {
+   "x": 69.7,
+   "y": 68.5,
+   "n": 10947
+  },
+  {
+   "x": 53.9,
+   "y": 69.7,
+   "n": 3294
+  },
+  {
+   "x": 43.3,
+   "y": 49.4,
+   "n": 1977
+  },
+  {
+   "x": 52.8,
+   "y": 93.5,
+   "n": 20889
+  },
+  {
+   "x": 58.8,
+   "y": 76.4,
+   "n": 6173
+  },
+  {
+   "x": 57.3,
+   "y": 62.0,
+   "n": 574
+  },
+  {
+   "x": 44.5,
+   "y": 85.3,
+   "n": 5697
+  },
+  {
+   "x": 40.5,
+   "y": 69.0,
+   "n": 5777
+  },
+  {
+   "x": 77.1,
+   "y": 75.7,
+   "n": 11643
+  },
+  {
+   "x": 58.7,
+   "y": 105.1,
+   "n": 1905
+  },
+  {
+   "x": 45.7,
+   "y": 77.3,
+   "n": 3452
+  },
+  {
+   "x": 47.1,
+   "y": 61.7,
+   "n": 1781
+  },
+  {
+   "x": 41.3,
+   "y": 87.8,
+   "n": 4830
+  },
+  {
+   "x": 43.1,
+   "y": 71.1,
+   "n": 7602
+  },
+  {
+   "x": 53.2,
+   "y": 76.2,
+   "n": 1622
+  },
+  {
+   "x": 41.4,
+   "y": 73.0,
+   "n": 1668
+  },
+  {
+   "x": 51.4,
+   "y": 108.6,
+   "n": 2694
+  },
+  {
+   "x": 43.1,
+   "y": 67.1,
+   "n": 1685
+  },
+  {
+   "x": 76.5,
+   "y": 71.6,
+   "n": 1576
+  },
+  {
+   "x": 52.3,
+   "y": 59.9,
+   "n": 5504
+  },
+  {
+   "x": 42.7,
+   "y": 79.4,
+   "n": 2136
+  },
+  {
+   "x": 62.1,
+   "y": 73.9,
+   "n": 1693
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 2002
+  },
+  {
+   "x": 45.1,
+   "y": 72.5,
+   "n": 8807
+  },
+  {
+   "x": 24.3,
+   "y": 87.3,
+   "n": 2794
+  },
+  {
+   "x": 60.6,
+   "y": 62.3,
+   "n": 8242
+  },
+  {
+   "x": 41.3,
+   "y": 109.3,
+   "n": 2301
+  },
+  {
+   "x": 61.3,
+   "y": 62.2,
+   "n": 3956
+  },
+  {
+   "x": 69.9,
+   "y": 96.2,
+   "n": 19521
+  },
+  {
+   "x": 41.0,
+   "y": 95.9,
+   "n": 6522
+  },
+  {
+   "x": 50.1,
+   "y": 98.1,
+   "n": 10643
+  },
+  {
+   "x": 51.0,
+   "y": 86.9,
+   "n": 10030
+  },
+  {
+   "x": 50.4,
+   "y": 88.0,
+   "n": 2487
+  },
+  {
+   "x": 37.7,
+   "y": 108.9,
+   "n": 6465
+  },
+  {
+   "x": 43.8,
+   "y": 107.4,
+   "n": 5079
+  },
+  {
+   "x": 55.2,
+   "y": 88.5,
+   "n": 4420
+  },
+  {
+   "x": 57.8,
+   "y": 60.3,
+   "n": 3028
+  },
+  {
+   "x": 64.9,
+   "y": 119.4,
+   "n": 13920
+  },
+  {
+   "x": 78.3,
+   "y": 84.4,
+   "n": 11236
+  },
+  {
+   "x": 35.1,
+   "y": 76.9,
+   "n": 1196
+  },
+  {
+   "x": 68.9,
+   "y": 66.9,
+   "n": 4521
+  },
+  {
+   "x": 34.1,
+   "y": 76.9,
+   "n": 1069
+  },
+  {
+   "x": 39.0,
+   "y": 88.6,
+   "n": 498
+  },
+  {
+   "x": 59.8,
+   "y": 51.7,
+   "n": 4122
+  },
+  {
+   "x": 47.4,
+   "y": 77.8,
+   "n": 2746
+  },
+  {
+   "x": 24.4,
+   "y": 82.0,
+   "n": 4102
+  },
+  {
+   "x": 48.2,
+   "y": 75.2,
+   "n": 1701
+  },
+  {
+   "x": 25.8,
+   "y": 79.3,
+   "n": 2015
+  },
+  {
+   "x": 70.6,
+   "y": 85.7,
+   "n": 2133
+  },
+  {
+   "x": 69.0,
+   "y": 51.9,
+   "n": 1799
+  },
+  {
+   "x": 66.0,
+   "y": 62.2,
+   "n": 683
+  },
+  {
+   "x": 71.5,
+   "y": 93.5,
+   "n": 19260
+  },
+  {
+   "x": 59.0,
+   "y": 68.3,
+   "n": 6382
+  },
+  {
+   "x": 43.7,
+   "y": 101.4,
+   "n": 30662
+  },
+  {
+   "x": 64.2,
+   "y": 91.4,
+   "n": 3758
+  },
+  {
+   "x": 68.0,
+   "y": 85.6,
+   "n": 1987
+  },
+  {
+   "x": 52.5,
+   "y": 83.6,
+   "n": 6559
+  },
+  {
+   "x": 76.8,
+   "y": 39.1,
+   "n": 1777
+  },
+  {
+   "x": 61.6,
+   "y": 60.6,
+   "n": 3674
+  },
+  {
+   "x": 71.4,
+   "y": 68.2,
+   "n": 5490
+  },
+  {
+   "x": 45.9,
+   "y": 72.9,
+   "n": 5038
+  },
+  {
+   "x": 55.4,
+   "y": 75.1,
+   "n": 5037
+  },
+  {
+   "x": 43.5,
+   "y": 71.5,
+   "n": 3136
+  },
+  {
+   "x": 44.6,
+   "y": 81.3,
+   "n": 1521
+  },
+  {
+   "x": 54.4,
+   "y": 85.5,
+   "n": 13504
+  },
+  {
+   "x": 60.9,
+   "y": 72.8,
+   "n": 4560
+  },
+  {
+   "x": 28.8,
+   "y": 81.8,
+   "n": 1341
+  },
+  {
+   "x": 58.8,
+   "y": 73.8,
+   "n": 5640
+  },
+  {
+   "x": 65.6,
+   "y": 49.9,
+   "n": 2649
+  },
+  {
+   "x": 57.1,
+   "y": 84.9,
+   "n": 5062
+  },
+  {
+   "x": 69.1,
+   "y": 57.2,
+   "n": 2363
+  },
+  {
+   "x": 45.9,
+   "y": 68.9,
+   "n": 3992
+  },
+  {
+   "x": 53.8,
+   "y": 65.7,
+   "n": 5001
+  },
+  {
+   "x": 53.9,
+   "y": 65.4,
+   "n": 3353
+  },
+  {
+   "x": 53.3,
+   "y": 98.7,
+   "n": 4537
+  },
+  {
+   "x": 63.6,
+   "y": 63.9,
+   "n": 1394
+  },
+  {
+   "x": 70.4,
+   "y": 79.9,
+   "n": 1560
+  },
+  {
+   "x": 42.9,
+   "y": 105.9,
+   "n": 1558
+  },
+  {
+   "x": 44.1,
+   "y": 82.1,
+   "n": 1431
+  },
+  {
+   "x": 47.2,
+   "y": 73.0,
+   "n": 2273
+  },
+  {
+   "x": 49.0,
+   "y": 78.3,
+   "n": 2384
+  },
+  {
+   "x": 40.5,
+   "y": 64.2,
+   "n": 4047
+  },
+  {
+   "x": 40.6,
+   "y": 76.9,
+   "n": 3502
+  },
+  {
+   "x": 46.0,
+   "y": 53.2,
+   "n": 1221
+  },
+  {
+   "x": 45.2,
+   "y": 54.8,
+   "n": 553
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1146
+  },
+  {
+   "x": 40.8,
+   "y": 58.4,
+   "n": 8141
+  },
+  {
+   "x": 42.1,
+   "y": 97.9,
+   "n": 4509
+  },
+  {
+   "x": 71.4,
+   "y": 56.6,
+   "n": 2808
+  },
+  {
+   "x": 44.2,
+   "y": 81.2,
+   "n": 7760
+  },
+  {
+   "x": 70.6,
+   "y": 64.2,
+   "n": 4079
+  },
+  {
+   "x": 29.8,
+   "y": 96.0,
+   "n": 2392
+  },
+  {
+   "x": 58.1,
+   "y": 74.5,
+   "n": 3265
+  },
+  {
+   "x": 53.6,
+   "y": 84.7,
+   "n": 11068
+  },
+  {
+   "x": 45.3,
+   "y": 65.8,
+   "n": 2635
+  },
+  {
+   "x": 49.2,
+   "y": 87.4,
+   "n": 2199
+  },
+  {
+   "x": 49.9,
+   "y": 63.2,
+   "n": 3175
+  },
+  {
+   "x": 53.6,
+   "y": 53.6,
+   "n": 4905
+  },
+  {
+   "x": 55.9,
+   "y": 68.6,
+   "n": 2472
+  },
+  {
+   "x": 51.8,
+   "y": 70.3,
+   "n": 1267
+  },
+  {
+   "x": 59.0,
+   "y": 71.7,
+   "n": 2308
+  },
+  {
+   "x": 49.8,
+   "y": 59.5,
+   "n": 2735
+  },
+  {
+   "x": 58.2,
+   "y": 81.7,
+   "n": 2329
+  },
+  {
+   "x": 46.1,
+   "y": 132.4,
+   "n": 7334
+  },
+  {
+   "x": 55.3,
+   "y": 80.4,
+   "n": 14170
+  },
+  {
+   "x": 60.4,
+   "y": 97.7,
+   "n": 1826
+  },
+  {
+   "x": 68.5,
+   "y": 94.0,
+   "n": 20988
+  },
+  {
+   "x": 50.6,
+   "y": 55.4,
+   "n": 5028
+  },
+  {
+   "x": 55.5,
+   "y": 85.4,
+   "n": 5473
+  },
+  {
+   "x": 22.0,
+   "y": 64.0,
+   "n": 3109
+  },
+  {
+   "x": 78.9,
+   "y": 53.5,
+   "n": 3139
+  },
+  {
+   "x": 40.6,
+   "y": 92.3,
+   "n": 6791
+  },
+  {
+   "x": 70.8,
+   "y": 123.9,
+   "n": 21900
+  },
+  {
+   "x": 55.6,
+   "y": 100.6,
+   "n": 4268
+  },
+  {
+   "x": 27.0,
+   "y": 68.6,
+   "n": 4984
+  },
+  {
+   "x": 67.2,
+   "y": 36.9,
+   "n": 2037
+  },
+  {
+   "x": 58.2,
+   "y": 52.8,
+   "n": 4383
+  },
+  {
+   "x": 55.1,
+   "y": 72.2,
+   "n": 2890
+  },
+  {
+   "x": 69.8,
+   "y": 72.8,
+   "n": 2195
+  },
+  {
+   "x": 74.3,
+   "y": 51.0,
+   "n": 12281
+  },
+  {
+   "x": 54.2,
+   "y": 111.9,
+   "n": 3310
+  },
+  {
+   "x": 67.1,
+   "y": 87.1,
+   "n": 7805
+  },
+  {
+   "x": 41.8,
+   "y": 73.1,
+   "n": 4316
+  },
+  {
+   "x": 43.7,
+   "y": 70.2,
+   "n": 2233
+  },
+  {
+   "x": 70.2,
+   "y": 81.8,
+   "n": 2479
+  },
+  {
+   "x": 22.7,
+   "y": 98.5,
+   "n": 1342
+  },
+  {
+   "x": 38.8,
+   "y": 110.2,
+   "n": 2300
+  },
+  {
+   "x": 55.4,
+   "y": 91.1,
+   "n": 5160
+  },
+  {
+   "x": 78.4,
+   "y": 64.0,
+   "n": 342
+  },
+  {
+   "x": 34.1,
+   "y": 74.1,
+   "n": 2179
+  },
+  {
+   "x": 45.7,
+   "y": 70.3,
+   "n": 350
+  },
+  {
+   "x": 62.6,
+   "y": 37.9,
+   "n": 377
+  },
+  {
+   "x": 68.2,
+   "y": 68.6,
+   "n": 4578
+  },
+  {
+   "x": 47.3,
+   "y": 74.1,
+   "n": 15945
+  },
+  {
+   "x": 52.5,
+   "y": 79.8,
+   "n": 11502
+  },
+  {
+   "x": 45.6,
+   "y": 103.7,
+   "n": 17492
+  },
+  {
+   "x": 54.5,
+   "y": 86.3,
+   "n": 2784
+  },
+  {
+   "x": 58.4,
+   "y": 77.2,
+   "n": 4053
+  },
+  {
+   "x": 49.5,
+   "y": 66.4,
+   "n": 1004
+  },
+  {
+   "x": 63.1,
+   "y": 78.9,
+   "n": 4455
+  },
+  {
+   "x": 53.2,
+   "y": 73.3,
+   "n": 4732
+  },
+  {
+   "x": 36.9,
+   "y": 45.5,
+   "n": 5207
+  },
+  {
+   "x": 58.0,
+   "y": 86.3,
+   "n": 3948
+  },
+  {
+   "x": 64.2,
+   "y": 110.6,
+   "n": 18110
+  },
+  {
+   "x": 59.0,
+   "y": 98.3,
+   "n": 7545
+  },
+  {
+   "x": 79.0,
+   "y": 74.0,
+   "n": 4788
+  },
+  {
+   "x": 51.8,
+   "y": 119.0,
+   "n": 1984
+  },
+  {
+   "x": 29.0,
+   "y": 76.8,
+   "n": 1391
+  },
+  {
+   "x": 40.2,
+   "y": 93.6,
+   "n": 3404
+  },
+  {
+   "x": 49.2,
+   "y": 64.1,
+   "n": 3216
+  },
+  {
+   "x": 62.3,
+   "y": 66.1,
+   "n": 4375
+  },
+  {
+   "x": 54.6,
+   "y": 58.9,
+   "n": 1534
+  },
+  {
+   "x": 55.8,
+   "y": 64.9,
+   "n": 749
+  },
+  {
+   "x": 49.4,
+   "y": 69.1,
+   "n": 4259
+  },
+  {
+   "x": 59.2,
+   "y": 90.7,
+   "n": 4421
+  },
+  {
+   "x": 50.0,
+   "y": 54.8,
+   "n": 1578
+  },
+  {
+   "x": 44.0,
+   "y": 56.9,
+   "n": 2562
+  },
+  {
+   "x": 37.0,
+   "y": 87.3,
+   "n": 1682
+  },
+  {
+   "x": 32.6,
+   "y": 90.6,
+   "n": 2401
+  },
+  {
+   "x": 41.9,
+   "y": 58.8,
+   "n": 1388
+  },
+  {
+   "x": 46.6,
+   "y": 65.8,
+   "n": 4316
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1720
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1859
+  },
+  {
+   "x": 33.4,
+   "y": 85.4,
+   "n": 5397
+  },
+  {
+   "x": 41.7,
+   "y": 76.0,
+   "n": 2965
+  },
+  {
+   "x": 53.3,
+   "y": 83.6,
+   "n": 3711
+  },
+  {
+   "x": 54.3,
+   "y": 56.0,
+   "n": 2037
+  },
+  {
+   "x": 63.7,
+   "y": 60.8,
+   "n": 8321
+  },
+  {
+   "x": 39.2,
+   "y": 80.5,
+   "n": 2589
+  },
+  {
+   "x": 69.8,
+   "y": 103.3,
+   "n": 13037
+  },
+  {
+   "x": 44.0,
+   "y": 87.6,
+   "n": 13836
+  },
+  {
+   "x": 52.3,
+   "y": 82.5,
+   "n": 5769
+  },
+  {
+   "x": 56.3,
+   "y": 93.5,
+   "n": 2990
+  },
+  {
+   "x": 50.8,
+   "y": 65.4,
+   "n": 2495
+  },
+  {
+   "x": 48.2,
+   "y": 77.1,
+   "n": 3406
+  },
+  {
+   "x": 57.2,
+   "y": 47.4,
+   "n": 6014
+  },
+  {
+   "x": 40.0,
+   "y": 73.5,
+   "n": 5622
+  },
+  {
+   "x": 70.6,
+   "y": 75.0,
+   "n": 3515
+  },
+  {
+   "x": 35.1,
+   "y": 75.7,
+   "n": 3208
+  },
+  {
+   "x": 43.4,
+   "y": 71.4,
+   "n": 1007
+  },
+  {
+   "x": 80.0,
+   "y": 40.3,
+   "n": 998
+  },
+  {
+   "x": 38.9,
+   "y": 58.0,
+   "n": 3037
+  },
+  {
+   "x": 54.0,
+   "y": 141.5,
+   "n": 2479
+  },
+  {
+   "x": 72.4,
+   "y": 62.0,
+   "n": 2786
+  },
+  {
+   "x": 60.0,
+   "y": 68.3,
+   "n": 1615
+  },
+  {
+   "x": 55.3,
+   "y": 88.8,
+   "n": 5748
+  },
+  {
+   "x": 31.6,
+   "y": 60.7,
+   "n": 3600
+  },
+  {
+   "x": 71.4,
+   "y": 81.1,
+   "n": 1633
+  },
+  {
+   "x": 57.4,
+   "y": 66.2,
+   "n": 2191
+  },
+  {
+   "x": 50.8,
+   "y": 69.9,
+   "n": 989
+  },
+  {
+   "x": 60.4,
+   "y": 71.6,
+   "n": 13587
+  },
+  {
+   "x": 47.1,
+   "y": 58.3,
+   "n": 7881
+  },
+  {
+   "x": 72.7,
+   "y": 69.3,
+   "n": 1191
+  },
+  {
+   "x": 55.9,
+   "y": 62.5,
+   "n": 2655
+  },
+  {
+   "x": 63.4,
+   "y": 66.2,
+   "n": 2611
+  },
+  {
+   "x": 60.8,
+   "y": 129.1,
+   "n": 13714
+  },
+  {
+   "x": 47.4,
+   "y": 63.2,
+   "n": 6862
+  },
+  {
+   "x": 57.0,
+   "y": 66.4,
+   "n": 12432
+  },
+  {
+   "x": 43.2,
+   "y": 75.5,
+   "n": 3863
+  },
+  {
+   "x": 53.7,
+   "y": 85.0,
+   "n": 5783
+  },
+  {
+   "x": 52.3,
+   "y": 55.6,
+   "n": 10015
+  },
+  {
+   "x": 57.0,
+   "y": 97.5,
+   "n": 4239
+  },
+  {
+   "x": 59.9,
+   "y": 84.0,
+   "n": 2706
+  },
+  {
+   "x": 40.6,
+   "y": 84.0,
+   "n": 17587
+  },
+  {
+   "x": 46.5,
+   "y": 85.6,
+   "n": 1177
+  },
+  {
+   "x": 45.0,
+   "y": 59.0,
+   "n": 2625
+  },
+  {
+   "x": 60.5,
+   "y": 136.1,
+   "n": 8488
+  },
+  {
+   "x": 55.0,
+   "y": 69.2,
+   "n": 1242
+  },
+  {
+   "x": 61.8,
+   "y": 66.0,
+   "n": 2002
+  },
+  {
+   "x": 59.4,
+   "y": 49.4,
+   "n": 6089
+  },
+  {
+   "x": 61.1,
+   "y": 45.1,
+   "n": 1189
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1084
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1041
+  },
+  {
+   "x": 61.5,
+   "y": 77.7,
+   "n": 9188
+  },
+  {
+   "x": 50.0,
+   "y": 101.9,
+   "n": 6983
+  },
+  {
+   "x": 68.5,
+   "y": 68.7,
+   "n": 4346
+  },
+  {
+   "x": 45.7,
+   "y": 84.1,
+   "n": 2220
+  },
+  {
+   "x": 46.0,
+   "y": 78.5,
+   "n": 3855
+  },
+  {
+   "x": 40.9,
+   "y": 77.3,
+   "n": 2573
+  },
+  {
+   "x": 43.5,
+   "y": 72.1,
+   "n": 1959
+  },
+  {
+   "x": 54.6,
+   "y": 49.9,
+   "n": 4853
+  },
+  {
+   "x": 72.3,
+   "y": 49.6,
+   "n": 6695
+  },
+  {
+   "x": 49.1,
+   "y": 82.1,
+   "n": 7501
+  },
+  {
+   "x": 46.9,
+   "y": 62.1,
+   "n": 5918
+  },
+  {
+   "x": 51.4,
+   "y": 59.0,
+   "n": 5677
+  },
+  {
+   "x": 52.0,
+   "y": 92.6,
+   "n": 8056
+  },
+  {
+   "x": 61.8,
+   "y": 77.6,
+   "n": 1806
+  },
+  {
+   "x": 37.7,
+   "y": 95.2,
+   "n": 1922
+  },
+  {
+   "x": 43.1,
+   "y": 72.7,
+   "n": 2182
+  },
+  {
+   "x": 75.3,
+   "y": 59.6,
+   "n": 1923
+  },
+  {
+   "x": 37.9,
+   "y": 82.8,
+   "n": 1758
+  },
+  {
+   "x": 43.8,
+   "y": 66.4,
+   "n": 2965
+  },
+  {
+   "x": 66.1,
+   "y": 66.5,
+   "n": 1637
+  },
+  {
+   "x": 81.4,
+   "y": 88.2,
+   "n": 1827
+  },
+  {
+   "x": 62.9,
+   "y": 62.0,
+   "n": 3266
+  },
+  {
+   "x": 33.4,
+   "y": 110.3,
+   "n": 2962
+  },
+  {
+   "x": 49.9,
+   "y": 73.3,
+   "n": 7504
+  },
+  {
+   "x": 73.0,
+   "y": 69.8,
+   "n": 3160
+  },
+  {
+   "x": 43.8,
+   "y": 82.1,
+   "n": 2980
+  },
+  {
+   "x": 71.7,
+   "y": 57.9,
+   "n": 5339
+  },
+  {
+   "x": 69.6,
+   "y": 60.0,
+   "n": 7341
+  },
+  {
+   "x": 51.4,
+   "y": 89.4,
+   "n": 2761
+  },
+  {
+   "x": 57.0,
+   "y": 85.2,
+   "n": 22215
+  },
+  {
+   "x": 45.9,
+   "y": 78.6,
+   "n": 5178
+  },
+  {
+   "x": 43.7,
+   "y": 113.5,
+   "n": 1156
+  },
+  {
+   "x": 40.0,
+   "y": 108.1,
+   "n": 4355
+  },
+  {
+   "x": 61.9,
+   "y": 66.2,
+   "n": 2134
+  },
+  {
+   "x": 32.0,
+   "y": 73.2,
+   "n": 2467
+  },
+  {
+   "x": 70.4,
+   "y": 55.3,
+   "n": 1101
+  },
+  {
+   "x": 44.9,
+   "y": 62.0,
+   "n": 2281
+  },
+  {
+   "x": 22.8,
+   "y": 111.7,
+   "n": 4583
+  },
+  {
+   "x": 38.3,
+   "y": 60.3,
+   "n": 833
+  },
+  {
+   "x": 43.3,
+   "y": 91.2,
+   "n": 5080
+  },
+  {
+   "x": 36.3,
+   "y": 93.7,
+   "n": 1548
+  },
+  {
+   "x": 67.6,
+   "y": 72.9,
+   "n": 2521
+  },
+  {
+   "x": 38.0,
+   "y": 59.8,
+   "n": 2505
+  },
+  {
+   "x": 61.1,
+   "y": 52.6,
+   "n": 3014
+  },
+  {
+   "x": 46.6,
+   "y": 92.3,
+   "n": 2585
+  },
+  {
+   "x": 38.9,
+   "y": 92.5,
+   "n": 1575
+  },
+  {
+   "x": 59.0,
+   "y": 84.7,
+   "n": 1807
+  },
+  {
+   "x": 54.7,
+   "y": 61.6,
+   "n": 3390
+  },
+  {
+   "x": 53.4,
+   "y": 77.0,
+   "n": 792
+  },
+  {
+   "x": 60.7,
+   "y": 79.5,
+   "n": 522
+  },
+  {
+   "x": 45.0,
+   "y": 74.6,
+   "n": 1757
+  },
+  {
+   "x": 72.7,
+   "y": 92.5,
+   "n": 681
+  },
+  {
+   "x": 91.5,
+   "y": 29.1,
+   "n": 423
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 748
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1598
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1232
+  },
+  {
+   "x": 57.5,
+   "y": 65.7,
+   "n": 4754
+  },
+  {
+   "x": 74.8,
+   "y": 76.4,
+   "n": 7889
+  },
+  {
+   "x": 49.9,
+   "y": 61.5,
+   "n": 6434
+  },
+  {
+   "x": 56.1,
+   "y": 85.0,
+   "n": 5516
+  },
+  {
+   "x": 49.8,
+   "y": 70.1,
+   "n": 2323
+  },
+  {
+   "x": 71.1,
+   "y": 54.9,
+   "n": 5569
+  },
+  {
+   "x": 54.5,
+   "y": 83.0,
+   "n": 5244
+  },
+  {
+   "x": 67.3,
+   "y": 99.8,
+   "n": 7994
+  },
+  {
+   "x": 56.5,
+   "y": 100.3,
+   "n": 8082
+  },
+  {
+   "x": 31.3,
+   "y": 76.5,
+   "n": 787
+  },
+  {
+   "x": 50.0,
+   "y": 83.2,
+   "n": 934
+  },
+  {
+   "x": 44.6,
+   "y": 87.3,
+   "n": 6115
+  },
+  {
+   "x": 27.7,
+   "y": 70.4,
+   "n": 2112
+  },
+  {
+   "x": 54.2,
+   "y": 112.4,
+   "n": 1560
+  },
+  {
+   "x": 40.0,
+   "y": 86.5,
+   "n": 2423
+  },
+  {
+   "x": 36.3,
+   "y": 93.2,
+   "n": 2476
+  },
+  {
+   "x": 42.4,
+   "y": 72.3,
+   "n": 2554
+  },
+  {
+   "x": 43.5,
+   "y": 70.1,
+   "n": 1399
+  },
+  {
+   "x": 49.4,
+   "y": 79.4,
+   "n": 1623
+  },
+  {
+   "x": 39.2,
+   "y": 105.9,
+   "n": 2237
+  },
+  {
+   "x": 64.0,
+   "y": 64.0,
+   "n": 1699
+  },
+  {
+   "x": 53.7,
+   "y": 57.7,
+   "n": 982
+  },
+  {
+   "x": 75.1,
+   "y": 69.2,
+   "n": 1385
+  },
+  {
+   "x": 50.4,
+   "y": 76.7,
+   "n": 1200
+  },
+  {
+   "x": 100.0,
+   "y": 0.0,
+   "n": 1338
+  }
+ ],
+ "effect_sizes": {
+  "r2": 0.261,
+  "n_blocks": 407,
+  "terms": [
+   {
+    "label": "Must change institution",
+    "beta": -0.458,
+    "r": -0.468
+   },
+   {
+    "label": "Over-age pupils",
+    "beta": -0.188,
+    "r": -0.221
+   },
+   {
+    "label": "Infrastructure score",
+    "beta": -0.19,
+    "r": -0.088
+   },
+   {
+    "label": "Rural share",
+    "beta": -0.102,
+    "r": 0.112
+   }
+  ]
+ },
+ "overage_by_grade": [
+  {
+   "class_num": 1,
+   "boys": 5.5,
+   "girls": 4.1,
+   "gap": 1.4,
+   "all": 4.8
+  },
+  {
+   "class_num": 2,
+   "boys": 5.7,
+   "girls": 4.2,
+   "gap": 1.5,
+   "all": 5.0
+  },
+  {
+   "class_num": 3,
+   "boys": 6.4,
+   "girls": 4.8,
+   "gap": 1.6,
+   "all": 5.6
+  },
+  {
+   "class_num": 4,
+   "boys": 8.2,
+   "girls": 6.5,
+   "gap": 1.7,
+   "all": 7.4
+  },
+  {
+   "class_num": 5,
+   "boys": 8.8,
+   "girls": 7.0,
+   "gap": 1.8,
+   "all": 7.9
+  },
+  {
+   "class_num": 6,
+   "boys": 7.1,
+   "girls": 5.3,
+   "gap": 1.8,
+   "all": 6.2
+  },
+  {
+   "class_num": 7,
+   "boys": 7.6,
+   "girls": 5.6,
+   "gap": 2.0,
+   "all": 6.6
+  },
+  {
+   "class_num": 8,
+   "boys": 7.5,
+   "girls": 5.3,
+   "gap": 2.2,
+   "all": 6.5
+  },
+  {
+   "class_num": 9,
+   "boys": 7.8,
+   "girls": 5.6,
+   "gap": 2.2,
+   "all": 6.8
+  },
+  {
+   "class_num": 10,
+   "boys": 9.0,
+   "girls": 6.4,
+   "gap": 2.6,
+   "all": 7.8
+  },
+  {
+   "class_num": 11,
+   "boys": 8.4,
+   "girls": 5.2,
+   "gap": 3.2,
+   "all": 6.8
+  },
+  {
+   "class_num": 12,
+   "boys": 10.6,
+   "girls": 6.3,
+   "gap": 4.3,
+   "all": 8.5
+  }
+ ],
+ "overage_trend": [
+  {
+   "year": "2021-22",
+   "pct": 26.4
+  },
+  {
+   "year": "2022-23",
+   "pct": 5.4
+  },
+  {
+   "year": "2023-24",
+   "pct": 6.0
+  },
+  {
+   "year": "2024-25",
+   "pct": 7.2
+  },
+  {
+   "year": "2025-26",
+   "pct": 7.8
+  }
+ ],
+ "overage_segment": [
+  {
+   "location": "Urban",
+   "management": "Government",
+   "pupils": 59565,
+   "pct": 10.6
+  },
+  {
+   "location": "Rural",
+   "management": "Private Unaided",
+   "pupils": 122231,
+   "pct": 8.4
+  },
+  {
+   "location": "Rural",
+   "management": "Private Aided",
+   "pupils": 640260,
+   "pct": 7.7
+  },
+  {
+   "location": "Urban",
+   "management": "Private Aided",
+   "pupils": 497811,
+   "pct": 7.5
+  },
+  {
+   "location": "Rural",
+   "management": "Government",
+   "pupils": 56273,
+   "pct": 7.2
+  },
+  {
+   "location": "Urban",
+   "management": "Private Unaided",
+   "pupils": 344700,
+   "pct": 5.7
+  }
+ ],
+ "equity_cliff": [
+  {
+   "cat": "ST",
+   "class10": 189245,
+   "class11": 122824,
+   "retention": 64.9,
+   "boys": 63.0,
+   "girls": 67.0,
+   "lost": 66421
+  },
+  {
+   "cat": "SC",
+   "class10": 227367,
+   "class11": 180168,
+   "retention": 79.2,
+   "boys": 76.0,
+   "girls": 82.8,
+   "lost": 47199
+  },
+  {
+   "cat": "OBC",
+   "class10": 606303,
+   "class11": 498550,
+   "retention": 82.2,
+   "boys": 79.8,
+   "girls": 85.0,
+   "lost": 107753
+  },
+  {
+   "cat": "General",
+   "class10": 749571,
+   "class11": 621128,
+   "retention": 82.9,
+   "boys": 81.2,
+   "girls": 84.8,
+   "lost": 128443
+  }
+ ],
+ "equity_doorway": [
+  {
+   "cat": "General",
+   "pct_must_move": 57.7,
+   "pct_rural": 34.8,
+   "pct_govt": 5.2
+  },
+  {
+   "cat": "SC",
+   "pct_must_move": 56.4,
+   "pct_rural": 47.8,
+   "pct_govt": 7.6
+  },
+  {
+   "cat": "ST",
+   "pct_must_move": 55.6,
+   "pct_rural": 78.0,
+   "pct_govt": 15.4
+  },
+  {
+   "cat": "OBC",
+   "pct_must_move": 50.8,
+   "pct_rural": 54.7,
+   "pct_govt": 4.2
+  }
+ ],
+ "equity_composition": [
+  {
+   "class_num": 1,
+   "General": 44.4,
+   "OBC": 31.7,
+   "SC": 11.4,
+   "ST": 12.5
+  },
+  {
+   "class_num": 2,
+   "General": 44.1,
+   "OBC": 32.0,
+   "SC": 11.5,
+   "ST": 12.4
+  },
+  {
+   "class_num": 3,
+   "General": 43.9,
+   "OBC": 31.9,
+   "SC": 12.0,
+   "ST": 12.3
+  },
+  {
+   "class_num": 4,
+   "General": 43.2,
+   "OBC": 32.4,
+   "SC": 12.2,
+   "ST": 12.2
+  },
+  {
+   "class_num": 5,
+   "General": 42.3,
+   "OBC": 33.4,
+   "SC": 12.4,
+   "ST": 11.9
+  },
+  {
+   "class_num": 6,
+   "General": 43.2,
+   "OBC": 32.9,
+   "SC": 12.3,
+   "ST": 11.6
+  },
+  {
+   "class_num": 7,
+   "General": 43.0,
+   "OBC": 32.7,
+   "SC": 12.2,
+   "ST": 12.2
+  },
+  {
+   "class_num": 8,
+   "General": 42.3,
+   "OBC": 33.4,
+   "SC": 12.4,
+   "ST": 11.9
+  },
+  {
+   "class_num": 9,
+   "General": 42.0,
+   "OBC": 33.8,
+   "SC": 12.8,
+   "ST": 11.4
+  },
+  {
+   "class_num": 10,
+   "General": 41.7,
+   "OBC": 34.5,
+   "SC": 13.0,
+   "ST": 10.8
+  },
+  {
+   "class_num": 11,
+   "General": 43.7,
+   "OBC": 35.0,
+   "SC": 12.7,
+   "ST": 8.6
+  },
+  {
+   "class_num": 12,
+   "General": 43.4,
+   "OBC": 35.5,
+   "SC": 12.9,
+   "ST": 8.2
+  }
+ ],
+ "equity_stability": [
+  {
+   "period": "2021-22\u21922022-23",
+   "cat": "General",
+   "retention": 78.3
+  },
+  {
+   "period": "2021-22\u21922022-23",
+   "cat": "OBC",
+   "retention": 80.2
+  },
+  {
+   "period": "2021-22\u21922022-23",
+   "cat": "SC",
+   "retention": 73.6
+  },
+  {
+   "period": "2021-22\u21922022-23",
+   "cat": "ST",
+   "retention": 57.9
+  },
+  {
+   "period": "2022-23\u21922023-24",
+   "cat": "ST",
+   "retention": 66.3
+  },
+  {
+   "period": "2022-23\u21922023-24",
+   "cat": "SC",
+   "retention": 79.0
+  },
+  {
+   "period": "2022-23\u21922023-24",
+   "cat": "General",
+   "retention": 82.8
+  },
+  {
+   "period": "2022-23\u21922023-24",
+   "cat": "OBC",
+   "retention": 82.1
+  },
+  {
+   "period": "2023-24\u21922024-25",
+   "cat": "SC",
+   "retention": 77.8
+  },
+  {
+   "period": "2023-24\u21922024-25",
+   "cat": "General",
+   "retention": 81.6
+  },
+  {
+   "period": "2023-24\u21922024-25",
+   "cat": "OBC",
+   "retention": 81.7
+  },
+  {
+   "period": "2023-24\u21922024-25",
+   "cat": "ST",
+   "retention": 66.6
+  },
+  {
+   "period": "2024-25\u21922025-26",
+   "cat": "OBC",
+   "retention": 82.2
+  },
+  {
+   "period": "2024-25\u21922025-26",
+   "cat": "General",
+   "retention": 82.9
+  },
+  {
+   "period": "2024-25\u21922025-26",
+   "cat": "SC",
+   "retention": 79.2
+  },
+  {
+   "period": "2024-25\u21922025-26",
+   "cat": "ST",
+   "retention": 64.9
+  }
+ ],
+ "st_districts": [
+  {
+   "district": "Nandurbar",
+   "pct_st": 72.7,
+   "st_pupils": 20423,
+   "retention": 56.3
+  },
+  {
+   "district": "Gadchiroli",
+   "pct_st": 38.8,
+   "st_pupils": 6075,
+   "retention": 69.3
+  },
+  {
+   "district": "Dhule",
+   "pct_st": 38.1,
+   "st_pupils": 13536,
+   "retention": 46.3
+  },
+  {
+   "district": "Palghar",
+   "pct_st": 33.1,
+   "st_pupils": 19246,
+   "retention": 70.6
+  },
+  {
+   "district": "Nashik",
+   "pct_st": 29.2,
+   "st_pupils": 31111,
+   "retention": 65.6
+  },
+  {
+   "district": "Jalgaon",
+   "pct_st": 20.5,
+   "st_pupils": 14229,
+   "retention": 42.5
+  },
+  {
+   "district": "Chandrapur",
+   "pct_st": 20.1,
+   "st_pupils": 6442,
+   "retention": 77.8
+  },
+  {
+   "district": "Yavatmal",
+   "pct_st": 19.2,
+   "st_pupils": 8413,
+   "retention": 71.4
+  }
+ ]
+}

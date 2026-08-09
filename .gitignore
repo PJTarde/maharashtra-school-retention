@@ -1,0 +1,24 @@
+# ---------------------------------------------------------------- data
+# The raw UDISE+ zips (122 MB), the unzipped CSVs (885 MB) and the built
+# DuckDB panel (328 MB) are all reproducible — see README "Getting the data".
+# Only the small computed outputs in data/analysis/ are tracked.
+project data set pbl/
+data/raw/
+data/*.duckdb
+data/*.duckdb.wal
+
+# ---------------------------------------------------------------- local
+.claude/
+*.log
+
+# ---------------------------------------------------------------- python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------- os
+Thumbs.db
+Desktop.ini
+.DS_Store

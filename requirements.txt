@@ -1,0 +1,23 @@
+# Python 3.12. Install with:  py -3.12 -m pip install -r requirements.txt
+#
+# Note: on this machine the `python` on PATH is an MSYS2 build with no pip.
+# Use the launcher (`py -3.12`) or a venv, not bare `python`.
+
+# --- core pipeline (required) ---
+duckdb==1.5.5          # the whole panel lives in DuckDB; no server needed
+pandas==3.0.5          # dataframes for the analysis scripts
+numpy==2.5.1           # OLS via lstsq in the block-level models
+
+# --- schema decoding (required for a cold build) ---
+pdfplumber==0.11.10    # reads the UDISE DSP schema PDFs to decode item codes
+
+# --- report rendering (optional; PDF + previews only) ---
+pypdf==6.15.0          # stamps page numbers onto the printed PDF
+reportlab==5.0.0       # draws that page-number overlay
+pypdfium2==5.12.1      # renders PDF pages to PNG for visual checking
+pillow==12.3.0         # builds the contact sheet from those PNGs
+
+# The HTML -> PDF and screenshot steps also need Microsoft Edge, driven headless.
+# Expected at:
+#   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+# Edit EDGE in scripts/17_build_pdf.py and scripts/12_screenshot.py if yours differs.

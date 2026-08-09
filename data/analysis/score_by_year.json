@@ -1,0 +1,32 @@
+[
+ {
+  "year":"2021-22",
+  "score":82.85,
+  "median_score":81.82,
+  "schools":109605
+ },
+ {
+  "year":"2022-23",
+  "score":87.27,
+  "median_score":90.91,
+  "schools":108451
+ },
+ {
+  "year":"2023-24",
+  "score":88.91,
+  "median_score":90.91,
+  "schools":108237
+ },
+ {
+  "year":"2024-25",
+  "score":89.7,
+  "median_score":90.91,
+  "schools":108250
+ },
+ {
+  "year":"2025-26",
+  "score":92.22,
+  "median_score":100.0,
+  "schools":108139
+ }
+]

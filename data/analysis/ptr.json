@@ -1,0 +1,92 @@
+[
+ {
+  "location":"Urban",
+  "management_group":"Private Aided",
+  "schools":5445,
+  "ptr":35.9,
+  "over_30":2671,
+  "single_teacher":181,
+  "zero_teacher":0
+ },
+ {
+  "location":"Urban",
+  "management_group":"Private Other",
+  "schools":1003,
+  "ptr":35.7,
+  "over_30":587,
+  "single_teacher":3,
+  "zero_teacher":0
+ },
+ {
+  "location":"Urban",
+  "management_group":"Private Unaided",
+  "schools":5545,
+  "ptr":31.8,
+  "over_30":2308,
+  "single_teacher":93,
+  "zero_teacher":0
+ },
+ {
+  "location":"Urban",
+  "management_group":"Government",
+  "schools":5592,
+  "ptr":30.3,
+  "over_30":1832,
+  "single_teacher":413,
+  "zero_teacher":0
+ },
+ {
+  "location":"Rural",
+  "management_group":"Private Aided",
+  "schools":4481,
+  "ptr":28.5,
+  "over_30":1622,
+  "single_teacher":147,
+  "zero_teacher":0
+ },
+ {
+  "location":"Rural",
+  "management_group":"Private Other",
+  "schools":1082,
+  "ptr":28.3,
+  "over_30":306,
+  "single_teacher":7,
+  "zero_teacher":0
+ },
+ {
+  "location":"Urban",
+  "management_group":"Other",
+  "schools":146,
+  "ptr":27.4,
+  "over_30":47,
+  "single_teacher":1,
+  "zero_teacher":0
+ },
+ {
+  "location":"Rural",
+  "management_group":"Private Unaided",
+  "schools":3323,
+  "ptr":21.6,
+  "over_30":651,
+  "single_teacher":69,
+  "zero_teacher":0
+ },
+ {
+  "location":"Rural",
+  "management_group":"Government",
+  "schools":57184,
+  "ptr":19.3,
+  "over_30":4401,
+  "single_teacher":8152,
+  "zero_teacher":9
+ },
+ {
+  "location":"Rural",
+  "management_group":"Other",
+  "schools":11,
+  "ptr":12.6,
+  "over_30":0,
+  "single_teacher":1,
+  "zero_teacher":0
+ }
+]

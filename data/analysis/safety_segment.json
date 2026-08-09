@@ -1,0 +1,56 @@
+[
+ {
+  "location":"Rural",
+  "management_group":"Government",
+  "schools":58247,
+  "pct_cctv":27.7,
+  "pct_fire":88.3,
+  "pct_counsellor":40.5,
+  "pct_selfdef":9.4
+ },
+ {
+  "location":"Urban",
+  "management_group":"Government",
+  "schools":6343,
+  "pct_cctv":45.0,
+  "pct_fire":91.1,
+  "pct_counsellor":42.4,
+  "pct_selfdef":21.4
+ },
+ {
+  "location":"Rural",
+  "management_group":"Private Aided",
+  "schools":12378,
+  "pct_cctv":78.3,
+  "pct_fire":93.1,
+  "pct_counsellor":43.0,
+  "pct_selfdef":20.3
+ },
+ {
+  "location":"Rural",
+  "management_group":"Private Unaided",
+  "schools":7359,
+  "pct_cctv":83.1,
+  "pct_fire":92.4,
+  "pct_counsellor":50.7,
+  "pct_selfdef":20.2
+ },
+ {
+  "location":"Urban",
+  "management_group":"Private Aided",
+  "schools":9745,
+  "pct_cctv":86.8,
+  "pct_fire":94.4,
+  "pct_counsellor":41.8,
+  "pct_selfdef":15.3
+ },
+ {
+  "location":"Urban",
+  "management_group":"Private Unaided",
+  "schools":10465,
+  "pct_cctv":92.6,
+  "pct_fire":96.0,
+  "pct_counsellor":52.6,
+  "pct_selfdef":18.2
+ }
+]

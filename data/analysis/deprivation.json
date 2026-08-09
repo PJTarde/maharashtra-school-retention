@@ -1,0 +1,37 @@
+[
+ {
+  "gap":"No internet",
+  "schools":23855,
+  "girls_affected":1889941.0
+ },
+ {
+  "gap":"No computing device",
+  "schools":21659,
+  "girls_affected":994905.0
+ },
+ {
+  "gap":"No playground",
+  "schools":12248,
+  "girls_affected":1343407.0
+ },
+ {
+  "gap":"No electricity",
+  "schools":9069,
+  "girls_affected":412790.0
+ },
+ {
+  "gap":"No library",
+  "schools":4585,
+  "girls_affected":474644.0
+ },
+ {
+  "gap":"No functional girls' toilet",
+  "schools":2971,
+  "girls_affected":91598.0
+ },
+ {
+  "gap":"No functional drinking water",
+  "schools":0,
+  "girls_affected":null
+ }
+]
