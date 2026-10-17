@@ -11,7 +11,7 @@ loss — every grade-to-grade step holds between 99.6% and 102.6% — and then
 cliff is present in all four transition pairs in the panel and has cost roughly
 15 lakh school places over four years.
 
-**[→ Read the report](https://YOUR-USERNAME.github.io/maharashtra-school-retention/)**
+**[→ Read the report](https://pjtarde.github.io/maharashtra-school-retention/)**
 &nbsp;·&nbsp; [PDF](report/maharashtra-schools.pdf) &nbsp;·&nbsp; [pipeline](scripts/)
 
 <!-- After pushing: Settings > Pages > Source = "Deploy from a branch",
